@@ -1,3 +1,5 @@
+//Evelyn Pitts
+
 void setup() {
 pinMode(2, OUTPUT); // sets the digital pin 2 as output
 pinMode(7, OUTPUT);
