@@ -1,5 +1,6 @@
 //Evelyn Pitts
 //Christina Sivaprakasam
+//Tom Gallagher-Teske
 
 void setup() {
 pinMode(2, OUTPUT); // sets the digital pin 2 as output
